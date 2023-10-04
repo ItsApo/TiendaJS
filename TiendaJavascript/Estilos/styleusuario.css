@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(https://1.bp.blogspot.com/-m-VEdwkykS0/X2jHP6xwqMI/AAAAAAAAbLE/azc4CVreqNQPMs4nend97i6fo0_oPTgnQCLcBGAsYHQ/w1600/at-at-minimalist-pc-wallpaper-hd.png);
+    background-size: cover;
+    font-family: sans-serif;
+}
+.box {
+    position: relative;
+    width: 380px;
+    height: 420px;
+    background-color: gray;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+}
+
+h1{
+    text-align: center;
+}
